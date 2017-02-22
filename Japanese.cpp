@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-cout<<"Kon'nichiwa sekai"<<endl;
+cout<<"Kon'nichiwa sekai!"<<endl;
 
 return0;
 }//main
