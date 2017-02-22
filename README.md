@@ -1,5 +1,5 @@
 # Hello World
 
-* main.cpp illustrates a very simple C++ console application that displays the message "Hello, World" and then terminates.
+* main.cpp <b>English</b> displays the message "Hello, World" and then terminates.
 
-* <b>Japanese</b> Prints "Kon'nichiwa sekai" then terminates
+* Japanese.cpp <b>Japanese</b> Prints "Kon'nichiwa sekai" then terminates
