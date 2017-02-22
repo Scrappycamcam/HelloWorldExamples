@@ -4,5 +4,5 @@ using namespace std;
 int main(){
 cout<<"Kon'nichiwa sekai!"<<endl;
 
-return0;
+return 0;
 }//main
